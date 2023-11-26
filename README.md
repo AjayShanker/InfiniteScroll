@@ -25,7 +25,7 @@ Upon receiving the client request, the server searches the requested data and se
 
 
 
-### React Hooks make it easy to monitor the inView state of your components that leaves the viewport.
+### React Hooks make it easy to monitor the inView state of your components when that leaves the viewport.
 
 
 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
