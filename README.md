@@ -1,4 +1,4 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Build Modern Next 14 Server Side App
 
 ### What's Client Side Architecture?
 
