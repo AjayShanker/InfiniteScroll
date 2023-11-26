@@ -1,8 +1,13 @@
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 
-### What is Server Side architecture?
+### What's Client Side Architecture?
 
 
+All the Client, Server architecture are based upon request, response model.
+
+The client-server architecture refers to a system that hosts, delivers, and manages most of the resources and services that the client requests. In this model, all requests and services are delivered over a network, and it is also referred to as the networking computing model or client server network.
+
+Client-server architecture, alternatively called a client-server model, is a network application that breaks down tasks and workloads between clients and servers that reside on the same system or are linked by a computer network.
 
 Modern websites use a well-known concept called — Infinite Scroll. It’s the natural pattern when the user consumes in the form of infinite posts. As we can’t just render 1 million posts, the information is delivered in chunks. Once the user finishes with a chunk, they scroll down to see the next piece (page). It’s used on many platforms, like Twitter, Facebook, Pinterest and etc.
 
